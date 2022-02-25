@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several queries relating to the present proceedings in Parliament more especially recommended to the consideration of the bishops.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59389</idno>
+            <idno type="STC">Wing S2805</idno>
+            <idno type="STC">ESTC R37379</idno>
+            <idno type="EEBO-CITATION">16412645</idno>
+            <idno type="OCLC">ocm 16412645</idno>
+            <idno type="VID">105384</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59389)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105384)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1158:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several queries relating to the present proceedings in Parliament more especially recommended to the consideration of the bishops.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105384:1"/>
+            <!-- PDF PAGE 45 -->
+            <head>SEVERAL QUERIES Relating to the preſent Proceedings in Parliament; More eſpecially recommended to the Conſideration of the BISHOPS.</head>
+            <p n="1">I. HOW the Houſe of Commons can anſwer it to thoſe People whom they Repreſent, if now they have an Opportunity, they do not ſettle the Go<g ref="char:EOLhyphen"/>vernment upon ſuch a Foundation as will be likely, not only to preſerve the Nation from Foreign Enemies, but alſo from falling into the like unhappy Circumſtances which it is but juſt now eſcaped out of, and which in a great meaſure, have proceeded from a want of a right Settlement of Publick. Affairs at the Reſtauration of King <hi>Charles</hi> the Second.</p>
+            <p n="2">II. Whether this can be done without altering the Succeſ<g ref="char:EOLhyphen"/>ſion, ſin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Birth of the Prince of <hi>Wales</hi> is not proved ſup<g ref="char:EOLhyphen"/>poſititious, <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>(though perhaps no Body doubts but it is ſo)? And ſuppoſing it proved ſo, Whether it would not be more feaſible to make a Preſident now, than to try the Experiment firſt, when the next Right of Succeſſion is claimed by the <hi>In<g ref="char:EOLhyphen"/>fanta</hi> of <hi>Spain;</hi> or perhaps ſome Prince her Heir, too ſtrong to resist without the Aſſiſtance of the Prince of <hi>Orange,</hi> eſpe<g ref="char:EOLhyphen"/>cially
+<pb n="2" facs="tcp:105384:2"/>
+               <!-- PDF PAGE 46 -->
+if there happen to be ſuch Diviſions amongſt Us as are at this Time?</p>
+            <p n="3">III. Whether it can be immagined to be worth the Prince of <hi>Orange's</hi> while to leave <hi>Holland,</hi> where he is the chief Man, and become a Subject in <hi>England;</hi> nay, and have ſuch an un<g ref="char:EOLhyphen"/>certain Intereſt in his ſtay here, that if his Wives Life chance to drop, perhaps he may be baniſhed in a Years time, and not have a Place, as things may happen, to put his Head in? For his Intereſt in <hi>Holland</hi> muſt neceſſarily fall into other Hands; And no Body knows what fallings out may happen betwixt Us and the <hi>Dutch,</hi> or what other Contingencies may happen that may give cauſe of Diſguſt.</p>
+            <p n="4">IV. Whether (conſidering the preſent State of Affairs) the Strength of the King of <hi>France,</hi> and the <hi>Iriſh</hi> Rebellion, (to ſay nothing of the Effects which the Entreaties, and ſubtile In<g ref="char:EOLhyphen"/>ſinuations of a Father muſt neceſſarily have upon any one that is good natur'd) it be ſafe to truſt the Adminiſtration of Af<g ref="char:EOLhyphen"/>fairs to a Woman, though never ſo vertuous? And whether we ſhall be able to protect our ſelves againſt all theſe formida<g ref="char:EOLhyphen"/>ble Enemies, and bring things to a due Settlement, without the Aſſiſtance of the Prince of <hi>Orange,</hi> whoſe Foreign Allian<g ref="char:EOLhyphen"/>ces are ſuch as we can never hope to obtain if we confer the Crown upon any other?</p>
+            <p n="5">V. Whether it would be a greater real Kindneſs to the Prin<g ref="char:EOLhyphen"/>ceſs of <hi>Orange</hi> to make her ſole Queen, after ſuch a manner as ſhe will be likely to be turned out again; or to make her and her Husband joint King and Queen during their two Lives? I ſay, her Husband, who is a Prince, not only able to defend her and her Kingdom from all the Dangers that may happen, but alſo to take all the Trouble which may occur in the Admi<g ref="char:EOLhyphen"/>niſtration of Affairs off her Hands, ſo that ſhe will enjoy all the Pleaſure of being Queen without any thing of Trouble: And we may add to this, that if it had not been for him, ſhe had never enjoyed the Crown, nor the Nation their Free<g ref="char:EOLhyphen"/>dom?</p>
+            <pb n="3" facs="tcp:105384:2"/>
+            <!-- PDF PAGE 46 -->
+            <p n="6">VI. Whether the Terms the Parliament ſhall make with one that can pretend no Right to the Crown but what they give him, will not be more likely to be kept by him, than by one that pretends a Title, and will be flattered up, both by Law<g ref="char:EOLhyphen"/>yers and Divines, (I mean, the Scum of them) with Notions of a Right <hi>jure Divino,</hi> and a Prerogative which cannot be par<g ref="char:EOLhyphen"/>ted with or aboliſh'd, though by the King's Conſent, or Act of Parliament?</p>
+            <p n="7">VII. Whether the Houſe of Commons, upon theſe Conſidera<g ref="char:EOLhyphen"/>tions, and divers others too long to mention, will not think it ne<g ref="char:EOLhyphen"/>ceſſary that the Prince and Princeſs of <hi>Orange</hi> be crowned King and Queen for their two Lives? and whether it can be imagi<g ref="char:EOLhyphen"/>ned that the Commons ſhould ſo far betray their Country as to recede from this Point (ſo neceſſary for its Preſervation) notwithſtanding all the Diſturbances which the Biſhops ſhall make in the Houſe of Lords, and though they do not meet with the Concurrence of that Houſe ſo ſoon as in reaſon might be expected?</p>
+            <p n="8">VIII. Whether the Houſe of Lords will ſuffer themſelves any longer to be impoſed upon by the Biſhops in a thing that will be ſo injurious to the Nation, as it will be not to comply with the Houſe of Commons in this great Point; which muſt neceſſarily put ſuch a damp upon Trade, that it will certainly be the Ruin of many hundreds of Families in the Nation whoſe dependance are upon Handy-Craft-Trades, to ſay no<g ref="char:EOLhyphen"/>thing of the Diſadvantages which may accrue by ſuch a Delay to the poor Proteſtants in <hi>Ireland?</hi> and admitting they ſhould, whether the Circumſtances of Affairs would not in a little time force them to a compliance with the Houſe of Com<g ref="char:EOLhyphen"/>mons?</p>
+            <p n="9">IX. Whether the Prince of <hi>Orange</hi> will not ſhew himſelf one of the unkindeſt Men in the World if he doth not ſtick by theſe People, till he feeth them ſecured, that have ventured their Lives and Fortunes for Him and their Country in con<g ref="char:EOLhyphen"/>fidence of his Protection? and whether he as Head of the
+<pb n="4" facs="tcp:105384:3"/>
+               <!-- PDF PAGE 47 -->
+Proteſtant Religion, be not obliged to ſtand by the 48 Prote<g ref="char:EOLhyphen"/>ſtant Lords, and Houſe of Commons, that have ſerved their Country ſo faithfully?</p>
+            <p n="10">X. Whether it would not be Prudence in the Biſhops (ſuppoſing their Deſigns be good, as I would hope they are) to ſhew their readineſs to aſſiſt the Nobility and Gentry in carrying on this great Work, whereby they might ſettle the Church upon the ſureſt Foundation, the Laws of God and of the Land, and continue themſelves in the Affections of the People?</p>
+            <p n="11">XI. Whether all the Proteſtant Blood which ſhall be ſpilt in <hi>Ireland</hi> by reaſon of theſe long Delays, will not be juſtly laid at the Biſhops doors, if they proceed after the ſame man<g ref="char:EOLhyphen"/>ner they have begun?</p>
+            <p>And laſtly, To anſwer the great Objection, that we ſhall loſe the Kingdom of <hi>Scotland</hi> if we make the King elective for this Turn.</p>
+            <p>Whether the <hi>Scots</hi> can chuſe any body that will be more agreeable to their Intereſts than the Prince of <hi>Orange?</hi> and ſuppoſing they can, Whether it be not madneſs to imagine, ſince they have a different Parliament, different Laws, and a different Original Contract (ſo that the King may commit a Forfeiture there, when he hath committed none here, or a Forfeiture here, when he hath committed none there) that they will not place the Crown upon him without any reſpect to what is done here, whether we make it a Forfeiture, or only a bare Demiſe?</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year, 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
